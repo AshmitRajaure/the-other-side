@@ -11,17 +11,13 @@ class SplashState: public State
         SplashState ( GameDataRef data ) ;
 
         void Init ( );
-
         void HandleInput ( );
         void Update ( float deltaTime );
         void Draw ( float deltaTime );
 
     private:
-
         GameDataRef _data;
-
         sf::Sprite _background;
-
-        sf::Clock _clock;
+        sf::Clock _clock;       //to check total splashState duration
 
 };

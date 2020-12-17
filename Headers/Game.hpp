@@ -22,14 +22,15 @@ typedef std::shared_ptr<GameData> GameDataRef;
 class Game
 {
     public:
-        Game(int width, int height, std::string title);
+        Game ( int width , int height , std::string title );
 
     private:
 
         const float deltaTime = 1.0f / GAME_FRAME_RATE;
         sf::Clock _clock;
 
-        GameDataRef _data = std::make_shared<GameData>( );
+        GameDataRef _data = std::make_shared< GameData >( );
 
         void Run();
+
 };

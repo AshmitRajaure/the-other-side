@@ -1,17 +1,207 @@
-﻿  GameState.cpp
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(40,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+﻿  AssetManager.cpp
+  Collision.cpp
+  Game.cpp
+  GameOverState.cpp
+E:\Visual Studio Projects\the-other-side\Sources\GameOverState.cpp(71,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameOverState.cpp(81,94): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
           with
           [
               T=unsigned int
           ]
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(96,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(99,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(106,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(109,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(153,23): warning C4018: '<': signed/unsigned mismatch
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(175,23): warning C4018: '<': signed/unsigned mismatch
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(181,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(208,23): warning C4018: '<': signed/unsigned mismatch
-E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(214,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameOverState.cpp(81,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\GameOverState.cpp(87,93): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\GameOverState.cpp(87,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GameState.cpp
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(42,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(97,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(100,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(107,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(110,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(115,50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(143,25): warning C4018: '<': signed/unsigned mismatch
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(158,25): warning C4018: '<': signed/unsigned mismatch
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(181,25): warning C4018: '<': signed/unsigned mismatch
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(187,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(213,25): warning C4018: '<': signed/unsigned mismatch
+E:\Visual Studio Projects\the-other-side\Sources\GameState.cpp(219,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  InputManager.cpp
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(8,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(8,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(7,77): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(7,52): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(19,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(19,34): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(18,75): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(18,49): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(34,95): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(34,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(34,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(34,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(46,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(46,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(46,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+E:\Visual Studio Projects\the-other-side\Sources\InputManager.cpp(46,38): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Kangaroo.cpp
+  Logs.cpp
+E:\Visual Studio Projects\the-other-side\Sources\Logs.cpp(12,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Logs.cpp(15,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Logs.cpp(21,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Logs.cpp(24,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Logs.cpp(63,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Logs.cpp(84,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  MainMenuState.cpp
+  SplashState.cpp
+  StateMachine.cpp
+E:\Visual Studio Projects\the-other-side\Sources\StateMachine.cpp(22,26): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Vehicle.cpp
+E:\Visual Studio Projects\the-other-side\Sources\Vehicle.cpp(12,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Vehicle.cpp(15,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Vehicle.cpp(21,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Visual Studio Projects\the-other-side\Sources\Vehicle.cpp(24,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
   the-other-side.vcxproj -> E:\Visual Studio Projects\the-other-side\Debug\the-other-side.exe

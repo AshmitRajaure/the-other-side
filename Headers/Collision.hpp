@@ -7,6 +7,6 @@ class Collision
     public:
 
         Collision ( );
-        bool CheckSpriteCollision ( sf::Sprite sprite1, sf::Sprite sprite2);
+        bool CheckSpriteCollision ( sf::Sprite sprite1 , sf::Sprite sprite2 );  //checks collision between two given sprites
 
 };

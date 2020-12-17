@@ -3,7 +3,7 @@
 #include "../Headers/Game.hpp"
 #include "../Headers/DEFINITION.hpp"
 
-int main()
+int main( )
 {
 
     Game ( WINDOW_WIDTH, WINDOW_HEIGHT, "The Other Side" );
